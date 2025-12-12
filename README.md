@@ -43,6 +43,13 @@
 
 ## 🚀 Featured Projects  
 
+### 🔹 **Physical AI & Humanoid Robotics – AI-Native Technical Textbook**  
+A unified AI-native textbook built for the Panaversity Physical AI & Humanoid Robotics course, integrating state-of-the-art robotics, simulation, and AI-agent frameworks.
+
+📘 1. Interactive Textbook (Docusaurus + Spec-Kit Plus)
+
+The book is fully AI-native and generated using Claude Code, Spec-Kit Plus, and LLM-assisted workflows.
+
 ### 🔹 **MotivationMate — AI Agent**  
 A purpose-specific AI agent using OpenAI Agents SDK + OpenRouter.  
 Delivers motivational quotes, tasks, and personalized feedback.
@@ -75,7 +82,7 @@ Text rewrite, summarize, improve, and optimize features using LLM APIs.
 
 ## 🌐 Connect With Me  
 📧 Email: *anamanwer268@gmail.com*  
-🔗 LinkedIn: *[Add your LinkedIn link her](https://www.linkedin.com/in/anum-a-1b82082b5/)*
+🔗 LinkedIn: *https://www.linkedin.com/in/anum-a-1b82082b5/*
 
 ---
 
