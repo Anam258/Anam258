@@ -63,11 +63,12 @@ Text rewrite, summarize, improve, and optimize features using LLM APIs.
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anam258&theme=tokyonight" alt="GitHub Streak Stats"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Anam258&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anam258&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anam258&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
